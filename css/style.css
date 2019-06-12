@@ -1,0 +1,73 @@
+ /*Style sheet for Arean Public School 2018 Recreated*/
+
+*{
+	font-family: sans-serif;	
+}
+
+.navbar{
+ background: linear-gradient(to right, #3185DD,#F8A406,#3185DD);
+  padding: 1.0rem 2.2rem;
+}
+
+.bann-img{
+  background-image: url("../images/bg-banner.jpeg");
+  height:500px;
+  width:100%;
+  margin: 0 auto;
+  background-size: cover;
+  background-attachment: fixed;
+
+}
+
+.bann-img h1{
+  color: white;
+   text-align: center;
+   padding-top: 100px;
+   font-size: 58px;
+}
+
+.bann-img p{
+  text-align: center;
+  color: white;
+  font-size:28px;
+}
+
+#desc-byPrincipal {
+    padding-top: 50px;
+    margin: 0 auto;
+    width: 90%;
+}
+
+
+.quote-by-principal{
+  line-height: 2.0;
+  font-style: italic;
+  font-weight: bold;
+  color: blue;
+}
+
+
+.for-updates {
+    width: 90%;
+    margin: 0 auto;
+    margin-top: 50px;
+}
+
+.blue-text{
+  color:blue;
+}    /*Custom class*/
+
+.card {
+    margin: 0 auto;
+}
+
+.for-news{
+  margin-top: 50px;
+}
+
+#pg-footer{
+   background: linear-gradient(to right, #3185DD,#F8A406,#3185DD);
+   margin-top: 100px;
+   color: white;
+   padding: 10px;
+}
